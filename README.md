@@ -24,7 +24,7 @@ Open `http://localhost:8080`
 
 ### Features
 
-1. **BaseAuthentication**
+1. **Basic Signup & Authentication**
    - Sign up, login, and JWT authentication
 2. **CV Processing**
    - Upload PDF file for LLM analysis to extract skills, experience, and projects
