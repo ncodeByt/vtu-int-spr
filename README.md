@@ -1,7 +1,7 @@
 # vtu-int-spr
 
 ## Setup
-Extract the Folder, and open the folder into a cmd-terminal.
+Extract the zip file, and open the folder into a cmd-terminal.
 ### Backend - initiation
 ```
 cd backend
