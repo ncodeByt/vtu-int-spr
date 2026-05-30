@@ -1,6 +1,6 @@
 # vtu-int-spr
 
-# Setup-
+## Setup
 Extract the Folder, and open the folder into a cmd-terminal.
 ### Backend - initiation
 ```
@@ -26,16 +26,12 @@ Open `http://localhost:8080`
 
 1. **BaseAuthentication**
    - Sign up, login, and JWT authentication
-
 2. **CV Processing**
-   - Upload PDF or DOCX files for LLM analysis to extract skills, experience, and projects
-
+   - Upload PDF file for LLM analysis to extract skills, experience, and projects
 3. **Dashboard**
    - CV overview with profile editing, skills summary, and course recommendations
-
 4. **Skills & Courses**
    - Display own and missing skills with Coursera course recommendations and search filter
-
 5. **Projects**
    - View CV projects and AI-suggested projects with details, AI chat, and custom project creation
 
